@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-// import "./Profile.scss";
+import "./Profile.scss";
 
 const Profile = ({ avatar, name, tag, location, stats }) => {
   return (

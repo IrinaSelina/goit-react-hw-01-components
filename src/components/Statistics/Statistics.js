@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import randomColor from "randomcolor";
 
-// import "./Statistics.scss";
+import "./Statistics.scss";
 
 const Statistics = ({ title, stats }) => (
   <section className="statistics">
